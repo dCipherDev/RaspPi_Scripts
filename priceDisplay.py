@@ -1,9 +1,13 @@
+
 from sense_hat import SenseHat
 sense = SenseHat()
 from urllib2 import urlopen
 import json
 import time
-#sense.low_light = True
+
+#Low Light Toggle: set your sense-hat's display to low brightness  
+sense.low_light = False #True 
+#Rotation Toggle
 sense.set_rotation(180)
 TEMP_ETH = 0
 TEMP_BTC = 0
