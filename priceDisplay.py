@@ -13,11 +13,11 @@ TEMP_ETH = 0
 TEMP_BTC = 0
 while True:
   try:
-  #Connecting to Poloniex's API and geting the last prices
+  #Connecting to Poloniex's API 
     url = urlopen('https://poloniex.com/public?command=returnTicker').read()
     result = json.loads(url)
 
-  #Setting the last price for our coins for later use 
+  #Reading the last price for our coins 
     ETH = result['BTC_ETH']['last']
     BTC = result['USDT_BTC']['last']
 
