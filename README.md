@@ -7,10 +7,10 @@ Script to display the prices of ETH and BTC on your Sense Hat.<br />
 
 #### Prerequisites
 
- - Raspberry Pi 2 <br />
- - Sense_HAT board<br />
+> - Raspberry Pi 2 <br />
+> - Sense_HAT board<br />
 
-## Authors
+##### Authors
 * **Radu** - *Initial work* - [dCipher](https://github.com/dCipherDev)
 
 
