@@ -1,13 +1,13 @@
 ##### This Repo will be used for developing IOT related stuff
 
 ### Criptocurrency Ticker 
-pricesDisplay.py 
+>python pricesDisplay.py 
 #### Description:
-Script to display the prices of ETH and BTC on your Sense Hat.<br />
-
+>The script will display the current price of ETH and BTC cryptocurrencies on the 8x8 led matrix of the Sense Hat using Poloniex's API.
+>
 #### Prerequisites
 
-> - Raspberry Pi 2 <br />
+> - Raspberry Pi 2 with Raspbian <br />
 > - Sense_HAT board<br />
 
 ##### Authors
