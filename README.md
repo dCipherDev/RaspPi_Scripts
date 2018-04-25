@@ -1,6 +1,6 @@
 ##### This Repo will be used for developing IOT related stuff
 
-###Criptocurrency Ticker 
+### Criptocurrency Ticker 
 pricesDisplay.py 
 #### Description:
 Script to display the prices of ETH and BTC on your Sense Hat.<br />
