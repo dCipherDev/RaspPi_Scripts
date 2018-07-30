@@ -1,6 +1,6 @@
 ### 1. Cryptocurrency Ticker 
->python pricesDisplay.py 
-#### Description:
+>python pricesDisplay.py  
+#### Descriptions:
 >The script will display the current price of ETH and BTC cryptocurrencies on the 8x8 led matrix of the Sense Hat using Poloniex's API.
 >
 #### Prerequisites
